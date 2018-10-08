@@ -12,9 +12,13 @@ function happyHolidaysTo(xyz){
   return `Happy ${weekend}, ${xing}!`
   
   }
+
  
  
  var x = 12;
  function holidayCountdown(x , weekend){
   return `It's ${weekend} days until ${x}!` 
  }
+
+ 
+
